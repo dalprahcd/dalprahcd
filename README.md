@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##
+[![Dalprahcd's github stats](https://github-readme-stats.vercel.app/api?username=dalprahcd&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dalprahcd/dalprahcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
