@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am an embedded software engineer who enjoys building solutions that makes people lives easier and happier.
+I am a firmware engineer who enjoys building solutions that makes people lives easier and happier.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
 - 💬 Ask me about Embedded C and Microcontrollers.
-- 🌱 I’m currently learning [Zig](https://ziglang.org/).
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Zig](https://ziglang.org/).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hudson-dalpra-b402a7266/).
 
 ### Github Stats
